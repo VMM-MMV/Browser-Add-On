@@ -1,4 +1,4 @@
-To use.
+To use:
   1. Fork the repository.
   2. Go to extensions on your browser.
   3. Activate developer mode.
